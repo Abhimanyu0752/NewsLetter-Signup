@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+}
+
+h1{
+  font-size: 1.2rem;
+}
+
+p{
+color: grey;
+font-size: .8rem;
+}
+
+img{
+  margin-bottom: 15px;
+}
+
+.d-grid{
+  margin-top: 10px;
+}
+
+.container-fluid{
+
+padding:10% 40%;
+}
+
+.container-fluid .form-control{
+  width: 100%;
+  line-height: 2;
+
+}
+
+
+.top{
+  border-radius: .25rem .25rem 0 0;
+}
+.middle{
+  border-radius: 0;
+  margin: -1px 0;
+}
+.bottom{
+  border-radius: 0 0 .25rem .25rem;
+}
