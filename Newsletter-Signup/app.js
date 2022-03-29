@@ -37,7 +37,7 @@ var jsonData = JSON.stringify(data);
 url : "https://us1.api.mailchimp.com/3.0/lists/a72e89fe75",
 method : "POST",
 headers: {
-  "Authorization" : "Abhimanyu 79d90a80d37d676e9979bb4310b45c17-us1"
+  "Authorization" : "Abhimanyu (API-Key) " 
 }  ,
 
 body: jsonData
